@@ -45,3 +45,5 @@ The model was built using **Mixed Integer Linear Programming (MILP)** in **Pyomo
 3. Run the notebook in Jupyter/Colab:  
    ```bash
    jupyter notebook "Prescriptive_Analytics.ipynb"
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
